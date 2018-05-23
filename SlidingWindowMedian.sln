@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlidingWindowMedian", "SlidingWindowMedian\SlidingWindowMedian.csproj", "{FBB4EE46-B626-487C-85E1-982B40650690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlidingWindowMedianTest", "SlidingWindowMedianTest\SlidingWindowMedianTest.csproj", "{81113F3D-2D47-4499-950F-9A104BFED759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBB4EE46-B626-487C-85E1-982B40650690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB4EE46-B626-487C-85E1-982B40650690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB4EE46-B626-487C-85E1-982B40650690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB4EE46-B626-487C-85E1-982B40650690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81113F3D-2D47-4499-950F-9A104BFED759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81113F3D-2D47-4499-950F-9A104BFED759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81113F3D-2D47-4499-950F-9A104BFED759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81113F3D-2D47-4499-950F-9A104BFED759}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

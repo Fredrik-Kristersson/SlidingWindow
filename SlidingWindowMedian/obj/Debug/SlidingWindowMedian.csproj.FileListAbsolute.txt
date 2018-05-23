@@ -1,0 +1,6 @@
+C:\Users\emped\Google Drive\programmering\Callstats\SlidingWindowMedian\SlidingWindowMedian\bin\Debug\SlidingWindowMedian.exe.config
+C:\Users\emped\Google Drive\programmering\Callstats\SlidingWindowMedian\SlidingWindowMedian\bin\Debug\SlidingWindowMedian.exe
+C:\Users\emped\Google Drive\programmering\Callstats\SlidingWindowMedian\SlidingWindowMedian\bin\Debug\SlidingWindowMedian.pdb
+C:\Users\emped\Google Drive\programmering\Callstats\SlidingWindowMedian\SlidingWindowMedian\obj\Debug\SlidingWindowMedian.csprojResolveAssemblyReference.cache
+C:\Users\emped\Google Drive\programmering\Callstats\SlidingWindowMedian\SlidingWindowMedian\obj\Debug\SlidingWindowMedian.exe
+C:\Users\emped\Google Drive\programmering\Callstats\SlidingWindowMedian\SlidingWindowMedian\obj\Debug\SlidingWindowMedian.pdb
