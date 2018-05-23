@@ -1,5 +1,8 @@
 ﻿namespace SlidingWindowMedian
 {
+	/// <summary>
+	/// A delay is saved in the window with the actual delay value and the order in which it was added.
+	/// </summary>
 	class DelayItem
 	{
 		/// <summary>

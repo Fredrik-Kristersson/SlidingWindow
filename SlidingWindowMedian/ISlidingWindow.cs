@@ -1,7 +1,7 @@
 ﻿namespace SlidingWindowMedian
 {
 	/// <summary>
-	/// Contains the current sliding window values
+	/// Contains the current sliding window values.
 	/// </summary>
 	interface ISlidingWindow
 	{

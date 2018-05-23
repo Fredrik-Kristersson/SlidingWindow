@@ -3,6 +3,9 @@ using System.Text;
 
 namespace SlidingWindowMedian
 {
+	/// <summary>
+	/// Contains the current sliding window values.
+	/// </summary>
 	public class SlidingWindow : ISlidingWindow
 	{
 		private int windowSize;
@@ -53,13 +56,6 @@ namespace SlidingWindowMedian
 		/// </summary>
 		private void AddEntrySorted(int delay)
 		{
-			if (window.Count == 0)
-			{
-				// empty window, just add delay
-				window.Add(new DelayItem { DelayValue = delay, DelayOrder = addedDelays });
-				return;
-			}
-
 			for (int i = 0; i < window.Count; i++)
 			{
 				if (delay < window[i].DelayValue)
@@ -98,6 +94,9 @@ namespace SlidingWindowMedian
 			return (median1.DelayValue + median2.DelayValue) / 2.0;
 		}
 
+		/// <summary>
+		/// Convenience method to get the current window as a string.
+		/// </summary>
 		public string WindowToString()
 		{
 			StringBuilder builder = new StringBuilder();
